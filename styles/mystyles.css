@@ -1,0 +1,43 @@
+/*overwrites body style*/
+body{
+    color:rgb(128, 99, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    
+
+}
+
+/*overwrites h5 in the body style*/
+h5{
+    color: rgb(56, 31, 56);
+    display:inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+/*overwrites image position*/
+img{
+    width:100%;
+    height:auto;
+
+/*overwrites video position*/
+}
+iframe{
+    width: 100%;
+    
+}
+
+/*customized for contact page */
+.contact{
+    text-align:center;
+    text-decoration:underline;
+}
+/*overwrite foooter style and postion*/
+.footer{
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    border-top:2px transparent;
+    text-align:center;
+}
